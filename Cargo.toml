@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "programs/tender_system"
+]
+
+[profile.release]
+overflow-checks = true
