@@ -1,0 +1,8 @@
+error: Found argument '--program' which wasn't expected, or isn't valid in this context
+
+	If you tried to supply `--program` as a value rather than a flag, use `-- --program`
+
+USAGE:
+    cargo-build-sbf [OPTIONS] [-- <cargo_args>...]
+
+For more information try --help
